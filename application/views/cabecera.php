@@ -31,8 +31,10 @@
         <li><a href="<?= site_url('Dashboard') ?>"><i class="fa fa-area-chart"></i> &nbsp; Lecturas de medidor</a></li>
         <li><a href="<?= site_url('Facturacion') ?>"><i class="fa fa-file-pdf-o"></i> &nbsp; Estado de cuenta</a></li>
         <li><a href="<?= site_url('Dashboard/home') ?>"><i class="fa fa-building-o"></i> &nbsp; Centros de carga</a></li>
+        <li><a href="https://escomxl.com/noticias/" target="_blank"><i class="fa fa-newspaper-o"></i> &nbsp; Noticias</a></li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
+        <li><a href="<?= site_url('Dashboard/ayuda') ?>"><i class="fa fa-question-circle"></i> &nbsp; Ayuda</a></li>
         <li><a href="<?= site_url('Welcome') ?>"><i class="fa fa-power-off"></i> Salir</a></li>
       </ul>
     </div>

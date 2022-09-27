@@ -112,7 +112,7 @@
 	</div>
 		<div class="panel-footer">
 			<div class="row">
-				<div class="col-md-12">
+				<div class="col-md-8">
 				</div>
 				<div class="col-md-4" style="text-align: right;">
 					MXN <?= number_format($total_mxn,2) ?><br>
